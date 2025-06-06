@@ -31,10 +31,7 @@ Este proyecto es una versión moderna del clásico juego Lode Runner, desarrolla
 
 
 3. **Ejecuta el juego:**
-   ```bash
-   # Ejemplo si es Python
-   python main.py
-   ```
+   Despues de abrir como tal la carpteta de LodeRunner(juego) nos ubicamos en el archivo main.py y ejecutamos este archivo, cabe resaltar que toda la carpeta deberia de estar abierta para que funcionen en conjunto con los otros archivos
   
 
 ---
